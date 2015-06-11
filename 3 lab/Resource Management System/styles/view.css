@@ -1,0 +1,120 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30.05.2015, 16:59:35
+    Author     : user
+*/
+    body {background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e1ffff), color-stop(7%,#e1ffff), color-stop(12%,#e1ffff), color-stop(12%,#fdffff), color-stop(30%,#e6f8fd), color-stop(54%,#c8eefb), color-stop(75%,#bee4f8), color-stop(100%,#b1d8f5));}
+
+    
+.button{text-decoration:none; text-align:center; 
+ width: 120px;
+ height: 24px;  
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#eb6f6f; 
+ background-image: -moz-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -webkit-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -o-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -ms-linear-gradient(top, #eb6f6f 0% ,#a51931 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a51931', endColorstr='#a51931',GradientType=0 ); 
+ background-image: linear-gradient(top, #eb6f6f 0% ,#a51931 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+  }.button:hover{
+ width: 120px;
+ height: 24px;  
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#f58585; 
+ background-image: -moz-linear-gradient(top, #f58585 0%, #b84054 100%); 
+ background-image: -webkit-linear-gradient(top, #f58585 0%, #b84054 100%); 
+ background-image: -o-linear-gradient(top, #f58585 0%, #b84054 100%); 
+ background-image: -ms-linear-gradient(top, #f58585 0% ,#b84054 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b84054', endColorstr='#b84054',GradientType=0 ); 
+ background-image: linear-gradient(top, #f58585 0% ,#b84054 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }.button:active{
+ width: 120px;
+ height: 24px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#eb6f6f; 
+ background-image: -moz-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -webkit-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -o-linear-gradient(top, #eb6f6f 0%, #a51931 100%); 
+ background-image: -ms-linear-gradient(top, #eb6f6f 0% ,#a51931 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a51931', endColorstr='#a51931',GradientType=0 ); 
+ background-image: linear-gradient(top, #eb6f6f 0% ,#a51931 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }
+ 
+ .button1{text-decoration:none; text-align:center; 
+ width: 200px;
+ height: 60px;  
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:18px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#ff7b00; 
+ background-image: -moz-linear-gradient(top, #ff7b00 0%, #bf781b 100%); 
+ background-image: -webkit-linear-gradient(top, #ff7b00 0%, #bf781b 100%); 
+ background-image: -o-linear-gradient(top, #ff7b00 0%, #bf781b 100%); 
+ background-image: -ms-linear-gradient(top, #ff7b00 0% ,#bf781b 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf781b', endColorstr='#bf781b',GradientType=0 ); 
+ background-image: linear-gradient(top, #ff7b00 0% ,#bf781b 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+  }.button1:hover{
+ width: 200px;
+ height: 60px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:18px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#ff9f45; 
+ background-image: -moz-linear-gradient(top, #ff9f45 0%, #bf873f 100%); 
+ background-image: -webkit-linear-gradient(top, #ff9f45 0%, #bf873f 100%); 
+ background-image: -o-linear-gradient(top, #ff9f45 0%, #bf873f 100%); 
+ background-image: -ms-linear-gradient(top, #ff9f45 0% ,#bf873f 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf873f', endColorstr='#bf873f',GradientType=0 ); 
+ background-image: linear-gradient(top, #ff9f45 0% ,#bf873f 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }
